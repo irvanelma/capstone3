@@ -66,3 +66,6 @@ This command tells Streamlit to run the capstone3interface.py file, which is you
 Once the app is running, your default web browser should automatically open a new tab displaying the interface. If it doesn't, Streamlit will provide a local URL in the terminal, which you can manually copy and paste into your browser.
 
 In the interface, you'll find input fields corresponding to the features described in the dataset section of this README. Fill in the fields with the data for which you'd like to predict the Customer Lifetime Value, and submit your input. The prediction will be displayed on the screen. Should you wish to make another prediction, simply adjust the input values and submit again.
+
+<img width="268" alt="image" src="https://github.com/irvanelma/capstone3/assets/153518580/11154986-b972-440e-807b-c8d7afa68b65">
+
